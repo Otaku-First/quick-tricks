@@ -3,7 +3,7 @@ package lp
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/utils/netclient"
+	"github.com/Otaku-First/quick-tricks/utils/netclient"
 )
 
 const (

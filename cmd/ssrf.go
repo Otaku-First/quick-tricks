@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/modules/ssrf"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
+	"github.com/Otaku-First/quick-tricks/modules/ssrf"
+	"github.com/Otaku-First/quick-tricks/utils/colors"
 	"github.com/spf13/cobra"
 )
 
